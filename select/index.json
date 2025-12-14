@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "おゆき",
+  "base_artist": "Kunio Naito",
+  "createdAt": "2025-12-14T10:33:49.434515Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おゆき",
+      "artist": "Mitsuki Nakae",
+      "has_synced": false,
+      "path": "select/01_おゆき_Mitsuki_Nakae.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おゆき",
+      "artist": "中恵光城",
+      "has_synced": false,
+      "path": "select/02_おゆき_中恵光城.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おゆき",
+      "artist": "内藤国雄",
+      "has_synced": false,
+      "path": "select/pl_01_おゆき_内藤国雄.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "おゆき",
+      "artist": "内藤国雄",
+      "has_synced": false,
+      "path": "select/pl_02_おゆき_内藤国雄.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "おゆき",
+      "artist": "内藤国雄",
+      "has_synced": false,
+      "path": "select/pl_03_おゆき_内藤国雄.txt"
+    }
+  ]
+}
